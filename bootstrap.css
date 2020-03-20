@@ -1,0 +1,63 @@
+.bg-black{
+    background-color: black;
+}
+.carousel-caption{
+    top: 300px;
+}
+.img-responsive{
+    max-height: 600px;
+    min-height: 230px;
+}
+.bg-color{
+    background-color: #20913c;
+    background-color: #2396aaf6;
+    color: rgb(53, 14, 71);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.m-right{
+    border: 2px solid #2396aaf6;
+    border-right: 2px solid white;
+
+}
+.underline{
+    width: 100px;
+    height:2px;
+    background-color: rgb(98, 27, 131);
+}
+.bg-light-gray{
+    background-color: rgba(148, 140, 140, 0.534);
+}
+.card-img-top{
+    min-height: 350px; 
+    
+}
+
+.underline-green{
+    width: 100px;
+    height:2px;
+    background-color: rgb(28, 156, 50);
+}
+.underline-blue{
+    width: 100px;
+    height:2px;
+    background-color: rgb(23, 47, 153);
+}
+.underline-red{
+    width: 100px;
+    height:2px;
+    background-color: rgb(167, 17, 17);
+}
+.media img{
+    max-width: 200px;
+    height: 200px;
+}
+ins{
+    text-decoration: none;
+}
+.carousel-caption{
+    color: rgb(53, 14, 71);
+    font-weight: bold;
+    font-size: 250%;
+    font-family: 'Times New Roman', Times, serif;
+}
